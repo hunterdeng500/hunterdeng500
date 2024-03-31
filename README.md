@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ```hunterdeng500@gmail.com```
   
 
-[![Hunter Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterdeng500)](https://github.com/hunterdeng500/github-readme-stats)
+[![Hunter Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterdeng500)]
