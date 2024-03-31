@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently learning Java, JavaScript, React, Android
   
-- 📫 How to reach me: hunterdeng500@gmail.com
+- 📫 How to reach me: ```hunterdeng500@gmail.com```
   
 
 [![Hunter Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterdeng500)](https://github.com/anuraghazra/github-readme-stats)
