@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on e-commerce company
+- 🔭 I’m currently working on an e-commerce company
   
 - 🌱 I’m currently learning Java, JavaScript, React, Android
   
