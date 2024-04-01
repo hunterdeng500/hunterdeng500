@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an e-commerce company
   
-- 🌱 I’m currently learning Java, JavaScript, React, Android
+- 🌱 I’m currently learning Java, Kotlin, JavaScript, React, Android
   
 - 📫 How to reach me: ```hunterdeng500@gmail.com```
   
